@@ -8,3 +8,8 @@ color: blue;}
 input {
 	border-radius: 5px;
 }
+
+button {
+	height:20px;
+	width:75px;
+}
