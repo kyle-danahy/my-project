@@ -3,7 +3,6 @@ var key = "";
 
 function submitClick()
 {
-	
 }
 
 function summonerLookUp()
