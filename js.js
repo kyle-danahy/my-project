@@ -3,13 +3,9 @@ var key = "";
 
 function submitClick()
 {
-<<<<<<< HEAD
 	var summonerName = "";
 	summonerName=document.getElementById("summonerName").value
 	document.getElementById("summonerName2").value=summonerName
-=======
-	
->>>>>>> origin/master
 }
 
 function summonerLookUp()
